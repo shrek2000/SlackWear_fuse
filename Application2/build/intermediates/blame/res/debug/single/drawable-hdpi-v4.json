@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_full_reply.png",
+        "source": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/drawable-hdpi/ic_full_reply.png"
+    },
+    {
+        "merged": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/res/merged/debug/drawable-hdpi-v4/tile.9.png",
+        "source": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/drawable-hdpi/tile.9.png"
+    }
+]

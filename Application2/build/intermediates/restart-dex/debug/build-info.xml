@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="23"
+    density="560dpi"
+    format="3"
+    timestamp="23783563812183" >
+
+    <task
+        name="javac"
+        duration="107" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="193" />
+    <task
+        name="verifier"
+        duration="30" />
+
+    <artifact
+        location="/home/oren/StudioProjects/SlackWear/Application2/build/outputs/apk/Application2-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="23783563812183" >
+        <artifact
+            location="/home/oren/StudioProjects/SlackWear/Application2/build/outputs/apk/Application2-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

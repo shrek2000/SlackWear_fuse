@@ -1,0 +1,627 @@
+[
+    {
+        "outputFile": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 60,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 61,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 61,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 61,
+                        "endOffset": 404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 63,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 409,
+                        "endColumn": 63,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 57,
+                    "endOffset": 979
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 759,
+                        "endColumn": 57,
+                        "endOffset": 812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 984,
+                    "endColumn": 55,
+                    "endOffset": 1035
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 817,
+                        "endColumn": 55,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1040,
+                    "endColumn": 58,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1264,
+                        "endColumn": 58,
+                        "endOffset": 1318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 56,
+                    "endOffset": 1151
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1323,
+                        "endColumn": 56,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1156,
+                    "endColumn": 53,
+                    "endOffset": 1205
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 53,
+                        "endOffset": 1429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1210,
+                    "endColumn": 69,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 42,
+                    "endOffset": 1318
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1323,
+                    "endColumn": 43,
+                    "endOffset": 1362
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1367,
+                    "endColumn": 44,
+                    "endOffset": 1407
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1412,
+                    "endColumn": 42,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endColumn": 41,
+                    "endOffset": 1492
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1497,
+                    "endColumn": 67,
+                    "endOffset": 1560
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1565,
+                    "endColumn": 53,
+                    "endOffset": 1614
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 53,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1619,
+                    "endColumn": 46,
+                    "endOffset": 1661
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 46,
+                        "endOffset": 689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1666,
+                    "endColumn": 39,
+                    "endOffset": 1701
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 753,
+                        "endColumn": 39,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1706,
+                    "endLine": 33,
+                    "endColumn": 13,
+                    "endOffset": 2225
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endLine": 30,
+                        "endColumn": 13,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2230,
+                    "endColumn": 39,
+                    "endOffset": 2265
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 847,
+                        "endColumn": 39,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2270,
+                    "endColumn": 64,
+                    "endOffset": 2330
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 64,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2335,
+                    "endColumn": 57,
+                    "endOffset": 2388
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 57,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2393,
+                    "endColumn": 50,
+                    "endOffset": 2439
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2444,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2905
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2910,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3031
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2069,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 2190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3036,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 3159
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2195,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 2318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3164,
+                    "endColumn": 59,
+                    "endOffset": 3219
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3224,
+                    "endColumn": 52,
+                    "endOffset": 3272
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3277,
+                    "endColumn": 26,
+                    "endOffset": 3299
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3304,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3495
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3500,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 3773
+                },
+                "from": {
+                    "file": "/home/oren/StudioProjects/SlackWear/Application2/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]
