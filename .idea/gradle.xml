@@ -5,20 +5,25 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Application" />
+            <option value="$PROJECT_DIR$/Application2" />
             <option value="$PROJECT_DIR$/Shared" />
             <option value="$PROJECT_DIR$/Wearable" />
+            <option value="$PROJECT_DIR$/slackapi" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Application" />
+            <option value="$PROJECT_DIR$/Application2" />
             <option value="$PROJECT_DIR$/Shared" />
             <option value="$PROJECT_DIR$/Wearable" />
+            <option value="$PROJECT_DIR$/slackapi" />
           </set>
         </option>
       </GradleProjectSettings>

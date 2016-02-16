@@ -1,2 +1,2 @@
 
-include ':Application', ':Wearable', ':Shared'
+include ':Application', ':Application2', ':Wearable', ':Shared', ':slackapi'
